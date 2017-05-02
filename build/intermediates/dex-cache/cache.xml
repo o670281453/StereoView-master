@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Person\StereoView-master\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3b20dc871d179ba476082efe543dc1b38db46e30">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_3b659f5dab56faaf78739f245d6b5b01cb604891\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_008724204bedac112d6ae6644c4ea516c9bc9470\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_e6e84901758e1d16d8e9e79a6375f05a7fc67ad9\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="face259f7074d25fb01318888bcb97b70329ad7e">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf63ba65be3684641b8d4326ac8d45aa64b738a0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\indy\AppData\Local\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_7dbe57a82281a81279acbaf31f2652d9fc13e39b\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\libs\VoiceRecognition-2.1.20.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44148c0546fbd278516c9d243326d309ccaaf7a9">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\VoiceRecognition-2.1.20_87b24377377f6ebf5ba64b269272c2da15ad1139\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a144ef9bacdc737dad8b1f3168a6bc2288be2eb0">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_017b535d5b2f758a396067e78d85437684093973\classes.dex" />
+    </item>
+    <item
+        jar="E:\Person\StereoView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Person\StereoView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_a03d93bd1d96ac5f41d89cdc278bc5585b505d8c\classes.dex" />
+    </item>
+
+</items>
